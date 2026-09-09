@@ -398,8 +398,16 @@
         "sha": "8629243d1cd72309b533090a4c742f21747d02fa"
       },
       "homepage": "https://github.com/supabase-community/supabase-plugin",
-      "keywords": ["supabase", "supabase mcp", "supabase auth", "supabase storage", "supabase edge functions"],
-      "domains": ["supabase.com"]
+      "keywords": [
+        "supabase",
+        "supabase mcp",
+        "supabase auth",
+        "supabase storage",
+        "supabase edge functions"
+      ],
+      "domains": [
+        "supabase.com"
+      ]
     },
     {
       "name": "pstack",
@@ -469,7 +477,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/JakeTaylorDesign/BuildFeed.git",
-        "sha": "f3ed6cce68a3af976735a199456223a13c473071",
+        "sha": "b5ee77792d3d73d904c3e4250abc525925f7f4fe",
         "path": "plugin"
       },
       "homepage": "https://buildfeed.tech",
